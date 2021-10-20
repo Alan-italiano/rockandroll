@@ -1,0 +1,9 @@
+{
+    "policies": ["default", "unix-admin"],
+    "meta": {
+      "user": "jason"
+    },
+    "ttl": "8h",
+    "renewable": true
+  }
+  

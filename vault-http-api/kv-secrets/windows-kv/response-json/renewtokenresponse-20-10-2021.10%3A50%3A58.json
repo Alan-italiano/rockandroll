@@ -1,0 +1,29 @@
+{
+    "auth": {
+        "accessor": "8B9Q31ssHUFkl9RaohF1eSlk",
+        "client_token": "s.zckpkMxaXGmBJAmNlnNP5oXN",
+        "entity_id": "",
+        "lease_duration": 28800,
+        "metadata": {
+            "user": "freddy"
+        },
+        "orphan": true,
+        "policies": [
+            "default",
+            "windows-admin"
+        ],
+        "renewable": true,
+        "token_policies": [
+            "default",
+            "windows-admin"
+        ],
+        "token_type": "service"
+    },
+    "data": null,
+    "lease_duration": 0,
+    "lease_id": "",
+    "renewable": false,
+    "request_id": "586cdb9b-a352-8f09-60ab-2778874abe65",
+    "warnings": null,
+    "wrap_info": null
+}

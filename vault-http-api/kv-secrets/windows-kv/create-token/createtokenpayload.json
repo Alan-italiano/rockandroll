@@ -1,0 +1,9 @@
+{
+    "policies": ["default", "windows-admin"],
+    "meta": {
+      "user": "freddy"
+    },
+    "ttl": "8h",
+    "renewable": true
+  }
+  
