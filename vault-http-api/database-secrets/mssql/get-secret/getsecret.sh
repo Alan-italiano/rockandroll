@@ -4,7 +4,7 @@ cd $(dirname $0)
 #Date/Time variable
 DATE=$(date +%d-%m-%Y.%H:%M:%S)
 
-#Request to generate MYSQL Dynamic Secrets
+#Request to generate MSSQL Dynamic Secrets
 curl --header "X-Vault-Token: s.bDEAi35dwKADKeyM4qjtQS4Y" \
 --insecure \
 -v \
